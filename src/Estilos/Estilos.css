@@ -1,0 +1,13 @@
+.marco_titulo{
+    color: blue;
+    font-size: 18px;
+}
+
+.marco h3{
+    font-size: 16px;
+}
+.marco_texto {
+    color : green;
+    padding: 0;
+    margin: 0;
+}

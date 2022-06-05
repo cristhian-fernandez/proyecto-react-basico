@@ -1,0 +1,13 @@
+.module_texto{
+    background-color: cornflowerblue;
+    color: #fff;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.module_texto_warning{
+    background-color: orangered;
+}
